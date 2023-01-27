@@ -9,3 +9,31 @@
     margin-top: 67px;
     margin-bottom: 67px;
 }
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
+
+#brush {
+    background-color: mediumspringgreen;
+
+}
+
+.item h2 {
+    color: white;
+
+}
+
+h2 {
+    display: block;
+    font-weight: bold;
+    margin-top: 26.56px;
+    margin-bottom: 26.56px;
+}
+
+h3 {
+    display: block;
+    font-weight: bold;
+    margin-top: 18.72px;
+    margin-bottom: 18.72px;
+}
