@@ -1,0 +1,11 @@
+
+.h1 {
+    background-image: url('/resources/images/pattern-img1.jpeg');
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    display: block;
+    margin-top: 67px;
+    margin-bottom: 67px;
+}
