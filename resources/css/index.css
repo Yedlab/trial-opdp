@@ -39,3 +39,8 @@ h3 {
     margin-top: 18.72px;
     margin-bottom: 18.72px;
 }
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
