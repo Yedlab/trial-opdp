@@ -21,8 +21,18 @@ h1, h2, h3, p {
 
 }
 
+#frame {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
 .item h2 {
     color: white;
+    font-size: 32px;
+    font-weight: bold;
 
 }
 
