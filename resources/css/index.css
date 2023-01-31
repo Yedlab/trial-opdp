@@ -1,7 +1,7 @@
 
-.h1 {
+#hook {
     background-image: url('/resources/images/pattern-img1.jpeg');
-    background-size: cover;
+    background-size: contain;
     text-align: center;
     font-size: 100px;
     font-weight: bold;
